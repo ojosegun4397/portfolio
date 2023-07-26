@@ -1,0 +1,75 @@
+
+  
+
+#banner{
+	background-image:url("picture/ovar1.jpg");
+	background-attachment:fixed;
+	
+	
+}
+
+#overlay{
+	background-color:rgba(1,0,48,0.8);
+}
+
+#great{justify-content: justify;}
+
+
+.gold{margin-top:150px;
+text-align:center;}
+
+.love{margin-top:150px;
+text-align:center;}
+
+#marine{text-align:center;}
+
+.joy{width:2px;}
+
+.both{border:2px solid white;
+box-shadow:5px -5px 5px 0px white;
+border-radius:20px;}
+
+
+
+.both:hover{color: red;
+background-color:#008080;
+
+}
+
+
+
+.good{background-color:#333333;
+box-shadow:5px -5px 5px 0px white;
+border-radius:20px;
+}
+
+
+
+.bro{border-radius:50%;}
+
+
+.true{
+	border-radius:50%;
+  
+	height:150px;
+  border:3px solid #008080;
+}
+.lie{display:flex; 
+ justify-content:center; 
+ 
+} 
+
+.look{color:white;}
+
+.look:hover{
+color:	#008080;
+	
+
+}
+
+.drip{text-decoration: none;}
+
+#dent{
+	text-shadow:5px -5px 5px 0px white;
+
+}
